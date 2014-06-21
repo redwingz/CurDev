@@ -8,5 +8,6 @@ references artist (name) on delete cascade
 */
 select * from work;
 select * from work;
+select * from work;
 
 
